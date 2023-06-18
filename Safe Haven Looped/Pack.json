@@ -1,0 +1,10 @@
+{
+    "name": "Safe Haven (Looping)",
+    "description": "Plays 'Safe Haven' from VA-11 HALL-A./n it's Like Starlogical's theme, but it loops.",
+    "author": "Lucaspec72",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
