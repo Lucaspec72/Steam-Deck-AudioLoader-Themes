@@ -1,0 +1,10 @@
+{
+    "name": "Sonic X - Messenger Robo",
+    "description": "Plays the theme of Bokkun from the Sonic X TV Series.",
+    "author": "Lucaspec72",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
