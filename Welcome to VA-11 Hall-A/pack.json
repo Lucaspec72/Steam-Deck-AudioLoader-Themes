@@ -1,0 +1,10 @@
+{
+    "name": "Welcome to VA-11 Hall-A",
+    "description": "Plays Welcome to VA-11 Hall-A from VA-11 HALL-A.",
+    "author": "Lucaspec72",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
