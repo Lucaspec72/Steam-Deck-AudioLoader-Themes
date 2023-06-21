@@ -3,7 +3,7 @@
     "description": "Synthwave remix of the Mario Kart 64 Title Theme. Made by MS Synthwave, looped by me.",
     "author": "Lucaspec72",
     "version": "v1.0",
-    "manifest_version": 2,
+    "manifest_version": 3,
     "music": true,
     "ignore": [],
     "mappings": {}
