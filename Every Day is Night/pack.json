@@ -1,0 +1,11 @@
+{
+    "name": "Every Day is Night",
+    "description": "Plays Every Day is Night from VA-11 Hall-A. With intro ! All rights go to Sukeban Games.",
+    "author": "Lucaspec72",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
+  
