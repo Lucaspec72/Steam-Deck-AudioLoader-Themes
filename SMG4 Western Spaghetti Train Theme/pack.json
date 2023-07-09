@@ -1,0 +1,10 @@
+{
+    "name": "SMG4 Train Theme",
+    "description": "Plays Western Wayne, the theme of the train to Western Spaghetti from SMG4.",
+    "author": "Lucaspec72",
+    "version": "v1.0",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+  }
